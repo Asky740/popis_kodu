@@ -35,3 +35,8 @@ if user_input > 0 and user_input < 10: #jestli je input v rozmezi 0-10, tak se n
     print("je v 0-10") #tohle se vypise kdyz je v rozmezi
 else: #nebo
     print("neni v 0-10") #tohle se vypise kdyz neni v rozmezi
+
+if user_input !=5:
+    print("neni 5")
+else:
+    print("je 5")
